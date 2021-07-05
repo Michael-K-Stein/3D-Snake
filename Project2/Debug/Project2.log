@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.c
+c:\users\stein\source\repos\project2\project2\objects\shaders.h(95): warning C4552: '!=': result of expression not used
+c:\users\stein\source\repos\project2\project2\snake\snakesquare.h(136): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\stein\source\repos\project2\project2\snake\snakesquare.h(137): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\stein\source\repos\project2\project2\objects\cube.h(132): warning C4101: 'trans3': unreferenced local variable
+c:\users\stein\source\repos\project2\project2\source.c(242): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\stein\source\repos\project2\project2\source.c(269): warning C4047: 'function': 'const GLfloat *' differs in levels of indirection from 'mat4'
+c:\users\stein\source\repos\project2\project2\source.c(269): warning C4024: '__glewUniformMatrix4fv': different types for formal and actual parameter 4
+c:\users\stein\source\repos\project2\project2\source.c(272): warning C4047: 'function': 'const GLfloat *' differs in levels of indirection from 'mat4'
+c:\users\stein\source\repos\project2\project2\source.c(272): warning C4024: '__glewUniformMatrix4fv': different types for formal and actual parameter 4
+c:\users\stein\source\repos\project2\project2\objects\shaders.h(88): warning C4716: 'SpecifyShaderLayout': must return a value
+c:\users\stein\source\repos\project2\project2\window.h(22): warning C4716: 'GenerateWindow': must return a value
+c:\users\stein\source\repos\project2\project2\objects\cube.h(101): warning C4716: 'Cube_Init': must return a value
+c:\users\stein\source\repos\project2\project2\objects\cube.h(108): warning C4716: 'Cube_Terminate': must return a value
+  Project2.vcxproj -> C:\Users\stein\source\repos\Project2\Debug\Snake3D.exe
